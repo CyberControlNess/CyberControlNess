@@ -1,3 +1,3 @@
-- 👋 Hi, We are CyberControlNess
+- 👋 Hi, We are Ness | CyberControl
 - Cyber Security & Manged Services
 - We'll share some knowledge in our git to help our client and everyone on the cyber securtiy community
